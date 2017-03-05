@@ -15,6 +15,9 @@ The system first splits each sentence into a set of entailed clauses. Each claus
 
 More information can be found here : http://nlp.stanford.edu/software/openie.html
 
+## TBD
+  rewrite open_ie_api.py as open_ie_api.rb
+
 ## Usage
 
 First of all, make sure Java 1.8 is installed. Open a terminal and run this command to check:
